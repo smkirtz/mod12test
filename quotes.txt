@@ -34,4 +34,10 @@
 =======
 - Vijay Kushwaha
 - "The most beautiful experience we can have is the mysterious." - Albert Einstein
+<<<<<<< HEAD
 >>>>>>> 78f78ca70eb62b680cd47f1b912989615e51f1ad
+=======
+
+-Robert Carlisle
+-"Talent wins games, but teamwork and intelligence wins championships" - Michael Jordan
+>>>>>>> 3310e5ab3ef3e2c6b30da7bd96ebeceb5d63205e
