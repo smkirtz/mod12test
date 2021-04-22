@@ -40,6 +40,9 @@
 		<tr>
 			<td>Dustin A.</td>
 		</tr>
+		<tr>
+			<td>Eddie G.</td>
+		</tr>
 	</table>
 </body>
 </html>
