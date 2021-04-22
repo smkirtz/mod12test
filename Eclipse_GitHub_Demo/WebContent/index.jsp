@@ -31,8 +31,11 @@
 			<td>Brandon R.</td>
 			<td>Marlon L.</td>
 		</tr>
-    <tr>
+    		<tr>
 			<td>Sam P.</td>
+		</tr>
+		<tr>
+			<td>Vijay Kushwaha</td>
 		</tr>
 	</table>
 </body>
