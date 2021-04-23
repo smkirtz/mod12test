@@ -22,7 +22,10 @@
 - Rayianna D.
 - "Somebody's getting fired." - Beyonce Knowles-Carter
 
+<<<<<<< Updated upstream
 -Chadwick H.
+=======
+>>>>>>> Stashed changes
 -Chadwick H.
 "Without a struggle, there can be no progress." - Frederick Douglass
 
