@@ -30,6 +30,7 @@
 			<td> Chadwick H. </td>
 			<td>Brandon R.</td>
 			<td>Robert Carlisle</td>
+			<td>Jeff Erisman</td>
 		</tr>
     		<tr>
 			<td>Sam P.</td>
