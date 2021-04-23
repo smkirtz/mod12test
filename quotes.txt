@@ -22,6 +22,10 @@
 - Rayianna D.
 - "Somebody's getting fired." - Beyonce Knowles-Carter
 
+<<<<<<< Updated upstream
+-Chadwick H.
+=======
+>>>>>>> Stashed changes
 -Chadwick H.
 "Without a struggle, there can be no progress." - Frederick Douglass
 
@@ -49,4 +53,10 @@
 
 - Eddie Gray
 - "Opportunity is missed by most people because it is dressed in overalls and look like work." - Thomas Edison
+<<<<<<< HEAD
 >>>>>>> f478ca65b78c14a97a5eebb7318002a74d82a7ba
+=======
+
+Jeff E.
+"Another brick in the wall" - Pink Floyd
+>>>>>>> 3db9967eca7dcd3916e7b59dbd2a01f6a065767c

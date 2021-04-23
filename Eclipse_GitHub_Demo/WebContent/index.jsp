@@ -33,7 +33,11 @@
 			<td>Marlon L.</td>
 =======
 			<td>Robert Carlisle</td>
+<<<<<<< HEAD
 >>>>>>> 3310e5ab3ef3e2c6b30da7bd96ebeceb5d63205e
+=======
+			<td>Jeff Erisman</td>
+>>>>>>> 3db9967eca7dcd3916e7b59dbd2a01f6a065767c
 		</tr>
     		<tr>
 			<td>Sam P.</td>
@@ -43,6 +47,9 @@
 		</tr>
 		<tr>
 			<td>Dustin A.</td>
+		</tr>
+		<tr>
+			<td>Eddie G.</td>
 		</tr>
 	</table>
 </body>
