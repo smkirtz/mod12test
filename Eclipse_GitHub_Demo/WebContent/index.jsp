@@ -67,6 +67,9 @@
 				<tr>
 			<td>Brandon R.</td>
 		</tr>
+		<tr>
+			<td> Ruperto (PJ) M. </td>
+		</tr>
 	</table>
 </body>
 </html>
