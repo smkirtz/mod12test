@@ -29,7 +29,7 @@
 			<td>Rayianna D.</td>
 			<td> Chadwick H. </td>
 			<td>Brandon R.</td>
-			<td>Kevin M.</td>
+
 <<<<<<< HEAD
 			<td>Marlon L.</td>
 =======
@@ -54,6 +54,9 @@
 		</tr>
 		<tr>
 		<td>Alvin AJ J</td>
+		</tr>
+		<tr>
+			<td>Kevin M.</td>
 		</tr>
 	</table>
 </body>
