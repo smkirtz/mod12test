@@ -26,14 +26,13 @@
 		<tr>
 			<td>Christina T.</td>
 		</tr>
-		<td></td>
 		<td>Sam W.</td>
 		<td>Akaash S.</td>
 		<td>Rayianna D.</td>
 		<td>Chadwick H.</td>
 	 	<tr>
 			<td>Marlon L.</td>
-		<tr>
+		</tr>
 		<td>Robert Carlisle</td>
 		<td>Jeff Erisman</td>
 		</tr>
