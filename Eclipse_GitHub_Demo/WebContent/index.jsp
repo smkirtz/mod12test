@@ -29,6 +29,7 @@
 			<td>Rayianna D.</td>
 			<td> Chadwick H. </td>
 			<td>Brandon R.</td>
+			<td>Kevin M.</td>
 <<<<<<< HEAD
 			<td>Marlon L.</td>
 =======
