@@ -68,11 +68,10 @@
 			<td>Brandon R.</td>
 		</tr>
 		<tr>
-<<<<<<< HEAD
 			<td> Ruperto (PJ) M. </td>
-=======
+		</tr>
+		<tr>
 		    <td>Asish D.</td>
->>>>>>> branch 'main' of https://github.com/keaguar/MIST7570_Sample_GitHub_Assignment.git
 		</tr>
 	</table>
 </body>
