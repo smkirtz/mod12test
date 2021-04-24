@@ -27,7 +27,11 @@
 			<td>Christina T.</td>
 		</tr>
 		<td>Sam W.</td>
-		<td>Akaash S.</td>
+		
+		<tr>
+			<td>Akaash S.</td>
+		</tr>
+		
 		<td>Rayianna D.</td>
 		<td>Chadwick H.</td>
 	 	<tr>
