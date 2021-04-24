@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+	pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -23,24 +23,21 @@
 	<table border=1>
 		<tr>
 			<td>Karen A.</td>
+		<tr>
 			<td>Christina T.</td>
-			<td>Sam W.</td>
-			<td>Akaash S.</td>
-			<td>Rayianna D.</td>
-			<td> Chadwick H. </td>
-			<td>Brandon R.</td>
-
-<<<<<<< HEAD
-			<td>Marlon L.</td>
-=======
-			<td>Robert Carlisle</td>
-<<<<<<< HEAD
->>>>>>> 3310e5ab3ef3e2c6b30da7bd96ebeceb5d63205e
-=======
-			<td>Jeff Erisman</td>
->>>>>>> 3db9967eca7dcd3916e7b59dbd2a01f6a065767c
 		</tr>
-    		<tr>
+		<td></td>
+		<td>Sam W.</td>
+		<td>Akaash S.</td>
+		<td>Rayianna D.</td>
+		<td>Chadwick H.</td>
+		<td>Brandon R.</td> <<<<<<< HEAD
+		<td>Marlon L.</td> =======
+		<td>Robert Carlisle</td> <<<<<<< HEAD >>>>>>>
+		3310e5ab3ef3e2c6b30da7bd96ebeceb5d63205e =======
+		<td>Jeff Erisman</td> >>>>>>> 3db9967eca7dcd3916e7b59dbd2a01f6a065767c
+		</tr>
+		<tr>
 			<td>Sam P.</td>
 		</tr>
 		<tr>
@@ -53,7 +50,7 @@
 			<td>Eddie G.</td>
 		</tr>
 		<tr>
-		<td>Alvin AJ J</td>
+			<td>Alvin AJ J</td>
 		</tr>
 		<tr>
 			<td>Kevin M.</td>
