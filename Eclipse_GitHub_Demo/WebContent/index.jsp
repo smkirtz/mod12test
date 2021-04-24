@@ -58,6 +58,9 @@
 		<tr>
 			<td>Kevin M.</td>
 		</tr>
+		<tr>
+			<td><b><em>Dan M.</em></b></td>
+		</tr>
 	</table>
 </body>
 </html>
