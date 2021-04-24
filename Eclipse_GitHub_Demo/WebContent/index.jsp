@@ -31,8 +31,9 @@
 		<td>Akaash S.</td>
 		<td>Rayianna D.</td>
 		<td>Chadwick H.</td>
-	 
-		<td>Marlon L.</td>
+	 	<tr>
+			<td>Marlon L.</td>
+		<tr>
 		<td>Robert Carlisle</td>
 		<td>Jeff Erisman</td>
 		</tr>
@@ -59,9 +60,6 @@
 		</tr>
 				<tr>
 			<td>Brandon R.</td>
-		</tr>
-		<tr>
-			<td>Marlon L.</td>
 		</tr>
 	</table>
 </body>
