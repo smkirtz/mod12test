@@ -27,6 +27,7 @@
 			<td>Sam W.</td>
 			<td>Akaash S.</td>
 			<td>Gary L.</td>
+			<td>Sierra K.</td>
 		</tr>
 	</table>
 </body>
